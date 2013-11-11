@@ -1,4 +1,4 @@
-TouchMagnet alpha1.00 by Lighting Organism 2013 lightingorganism.com
+TouchMagnet controller demo by Lighting Organism 2013 lightingorganism.com
 An android app for controlling visuals in the TouchMagnet Processing app.
 
 Dustin Edwards dustin@lightingorganism.com
@@ -19,6 +19,7 @@ Dan Cote dan@lightingorganism.com
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
     
 
+This is a demo adapted from https://github.com/odbol/OSCLib. Thank You Odbol!
 
 Thank you to Heroic Robotics heroicrobotics.com/
 for the PixelPusher hardware, protocols, and library.
